@@ -2,3 +2,6 @@
 	path = nvim/.config/nvim
 	url = git@github.com:Noble14/nvim.git
     branch = master
+[submodule "gitconfig"]
+	path = git
+	url = git@github.com:Noble14/git.git
