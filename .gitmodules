@@ -5,3 +5,4 @@
 [submodule "gitconfig"]
 	path = git
 	url = git@github.com:Noble14/git.git
+    branch = main
